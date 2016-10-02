@@ -1,0 +1,33 @@
+Eric Gullufsen (ONID - gullufse)
+
+The unaffordability of Premier League match tickets.
+According to the Independent[1], a British newspaper, the average cost 
+of a premier leage ticket is 30.68 pounds, or about $40 (independent.co.uk).
+This is the average price, meaning good seats are far more than this, and 
+tickets for the top teams are often much more expensive. This makes it
+ prohibitively expensive for working-class fans to regularly attend matches
+ and support their team.
+Subproblem 1: fans of lower-table teams are priced out of watching their team play
+ the 'top' teams (Manchester City, Arsenal, Chelsea, Man. City, Tottenham).
+Quote illustrating subproblem one: [2]"Newcastle vs. City - 60 pounds!". From Pete Donaldson,
+presenter on podcast 'the Football Ramble.' thefootballramble.com. This is also anecdotal evidence of
+ fans of lower-teir teams (Newcastle, West Ham, Sutherland, etc.) seeing tickets
+ for their team skyrocket in price when they are playing the 'big boys' of the PL. Obviously,
+ this also hampers families from attending with their children, as four tickets to a top-teir
+ match would run into the hundreds of dollars.
+ 
+I propose a web-application that would highlight affordable or on-sale tickets around
+England. Three important features of this system: real-time reporting from fans at stadiums, a
+database of match ticket prices reported by the clubs themselves, reviews of matches by attending fans.
+Real-time reporting by fans is important because oftentimes clubs will raise or lower their
+prices, so that fans attending the game might be surprised by a price. In this system, fans can
+ look up gate prices. The clubs data regarding ticket prices is important for fans planning ahead,
+ for instance a 'yank' attending a game abroad would want to look up prices well in advance of the match day.
+ Finally, reviews of matches are important since you'd not want to shell out a bunch of money
+ to see a team that are not in good form.
+ 
+[1] http://independent.co.uk/sport/football/premier-league/ticket-prices-how-much-does-it-cost-to-watch-your-team-a6694486.html
+
+[2] http://thefootballramble.com Episode "Goal of the Time Zone" min. 34. Pete Donaldson quoted.
+
+ 
